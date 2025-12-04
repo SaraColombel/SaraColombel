@@ -1,5 +1,3 @@
-## Bonjour :)
-
 # 💫 About Me:
 Salut ! Je m'appelle Sara.<br>Je suis passionnée par l'intelligence artificielle, l'apprentissage de nouvelles compétences techniques et la création de projets qui me permettent d'expérimenter, comprendre et m'améliorer.<br>Ici, je partage mes travaux, du simple prototype aux projets plus aboutis. <br>N'hésitez pas à jeter un oeil, à suivre l'évolution de mes projets, ou à me contacter pour échanger !
 
